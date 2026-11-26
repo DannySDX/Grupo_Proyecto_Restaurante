@@ -6,7 +6,7 @@ package models.enums;
  */
 public enum Permiso {
     
-    PROVEEDOR("proveedor"),
+    PROVEEDOR("PROVEEDOR"),
     CAJERO("cajero"),
     ADMINISTRADOR("administrador");
     
