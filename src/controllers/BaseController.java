@@ -68,7 +68,7 @@ public class BaseController {
             }
 
         } catch (Exception e) {
-            System.out.println("e = 2 * 10 + 50: " + e);
+            System.out.println("e = 2 + 5: " + e);
         }
         return objects;
         
